@@ -9,5 +9,7 @@ Link to Medium article: Yet to upload
 - Module 1 - Introduction to Amazon Web Services 
 - Module 2 - Compute in the Cloud 
 - Module 3 - Global Infrastracture and Reliability
-- Module 4 - 
+- Module 4 - Networking 
+- Module 5 - 
+
 
