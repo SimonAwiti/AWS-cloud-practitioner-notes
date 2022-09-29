@@ -11,7 +11,9 @@ Link to Medium article: Yet to upload
 - Module 3 - Global Infrastracture and Reliability
 - Module 4 - Networking 
 - Module 5 - Storage and Databases
-- Module 6
+- Module 6 - Security
+- Module 7 - 
+
 
 
 
