@@ -10,6 +10,8 @@ Link to Medium article: Yet to upload
 - Module 2 - Compute in the Cloud 
 - Module 3 - Global Infrastracture and Reliability
 - Module 4 - Networking 
-- Module 5 - 
+- Module 5 - Storage and Databases
+- Module 6
+
 
 
