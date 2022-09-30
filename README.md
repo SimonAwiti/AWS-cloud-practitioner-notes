@@ -1,7 +1,7 @@
 
 # AWS Certified Cloud Practitioner Essentials - Notes
 Notes compilation based on AWS E-Learning lessons and transcripts. 
-Source: AWS Skillbuilder
+- Source: AWS Skillbuilder
 
 Link to Medium article: Yet to upload
 
@@ -12,7 +12,8 @@ Link to Medium article: Yet to upload
 - Module 4 - Networking 
 - Module 5 - Storage and Databases
 - Module 6 - Security
-- Module 7 - 
+- Module 7 - Monitoring and Analytics 
+- Module 8 - 
 
 
 
