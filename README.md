@@ -13,7 +13,8 @@ Link to Medium article: Yet to upload
 - Module 5 - Storage and Databases
 - Module 6 - Security
 - Module 7 - Monitoring and Analytics 
-- Module 8 - 
+- Module 8 - Pricing and Support
+
 
 
 
