@@ -14,6 +14,7 @@ Link to Medium article: Yet to upload
 - Module 6 - Security
 - Module 7 - Monitoring and Analytics 
 - Module 8 - Pricing and Support
+- Module 9 - Migration and Innovation
 
 
 
